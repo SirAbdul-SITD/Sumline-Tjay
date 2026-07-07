@@ -15,8 +15,8 @@ android/key.properties
 *.keystore
 
 # APK/AAB outputs
-*.apk
-*.aab
+# *.apk
+# *.aab
 
 # iOS
 ios/Pods/
